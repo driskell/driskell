@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Apache Doris Community Badge
+
 <!--
 **driskell/driskell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
